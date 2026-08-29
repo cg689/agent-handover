@@ -4,6 +4,8 @@
 [![Awesome AI Skills](https://img.shields.io/badge/AI_Agent-Skill-purple.svg)](https://github.com/cg689/agent-handover)
 [![Supported Agents](https://img.shields.io/badge/Supported_Agents-10+-green.svg)](#-多-agent-适配矩阵)
 
+[**English**](./README_EN.md) | [**简体中文**](./README.md)
+
 > **项目属于磁盘，不属于任何特定 Agent。换 Agent 是换工人，不是搬项目。**
 
 **Agent Handover** 是一套专为 **AI 编程助手（Agent）** 设计的标准化项目交接技能包与通用操作指南。它解决了在不同 AI 编码工具之间切换时导致的“隐性知识丢失”、“上下文断层”、“新 Agent 乱改代码”以及“多代交接冲突”等工程痛点。
