@@ -101,7 +101,7 @@ description: >-
 **② 项目说明书**（长效——干活守什么规矩）
 → 内容模板：[project_guide_template.md](./resources/project_guide_template.md)
 
-文件名按目标 agent 约定（对照表见 [完整指南](./references/full_guide.md#常见-agent-读取的说明文件名)）。
+文件名按目标 agent 约定（对照表见 [完整指南](./references/full_guide.md)）。
 如果用户说不清新 agent 用什么文件名，先写成通用名 `PROJECT_GUIDE.md`，到新 agent 再改名。
 
 两份文档联动：HANDOVER.md 中稳定下来的内容回填到项目说明书。
